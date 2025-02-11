@@ -1,0 +1,17 @@
+||provisioning.googleapis.com^$important
+||firebaselogging-pa.googleapis.com^$important
+||fcmtoken.googleapis.com^$important
+||firebaseinstallations.googleapis.com^$important
+||device-provisioning.googleapis.com^$important
+||app-measurement.com^$important
+||app.adjust.com^$important
+||out.usbla.net^$important
+||launches.appsflyer.com^$important
+||appsflyersdk.com^$important
+||analytics.nianticlabs.com^$important
+||sentry.io^$important
+||adtidy.org^$important
+||ads.yap.yahoo.com^$important
+||tp2.beap.gemini.yahoo.com^$important
+||adv.lihkg.com^$important
+||www.axismedia.com.hk^$important
