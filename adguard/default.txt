@@ -10,7 +10,6 @@
 ||appsflyersdk.com^$important
 ||analytics.nianticlabs.com^$important
 ||sentry.io^$important
-||adtidy.org^$important
 ||ads.yap.yahoo.com^$important
 ||tp2.beap.gemini.yahoo.com^$important
 ||adv.lihkg.com^$important
