@@ -1,3 +1,7 @@
+!
+! Title: Tailored DNS filter
+! Version: 1.0.25071101
+!
 ||provisioning.googleapis.com^$important
 ||firebaselogging-pa.googleapis.com^$important
 ||fcmtoken.googleapis.com^$important
