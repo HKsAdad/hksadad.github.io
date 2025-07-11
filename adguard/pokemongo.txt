@@ -15,5 +15,9 @@
 ||oauth2.googleapis.com^$important
 
 
+! Facebook
+||m.facebook.com^$important
+
+
 ! Pokemon Trainer Club
 ||me.pokemon.com^$important
