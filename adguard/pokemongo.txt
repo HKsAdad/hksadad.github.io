@@ -2,10 +2,9 @@
 ! Title: Pokemon Go
 ! Description: List of domains used by Pokemon Go
 ! Version: 1.1.25071101
-! Homepage: https://hksadad.github.io/adguard/pokemongo.txt
-! Last Modified: 2025-07-11T10:46:00.000Z
+! Last Modified: 2025-07-11T02:46:00.000Z
 !
-!
+
 ||pgorelease.nianticlabs.com^$important
 ||identity.nianticlabs.com^$important
 ||identity-public.nianticlabs.com^$important
