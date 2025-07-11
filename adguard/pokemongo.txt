@@ -5,7 +5,6 @@
 !
 
 ||pgorelease.nianticlabs.com^$important
-||pgorelease-assets.nianticstatic.com^$important
 ||identity.nianticlabs.com^$important
 ||identity-public.nianticlabs.com^$important
 ||armodels.eng.nianticlabs.com^$important
