@@ -10,13 +10,5 @@
 !||identity-public.nianticlabs.com^$important
 
 
-! Google OAuth
-!||oauth2.googleapis.com^$important
-
-
-! Facebook
-!||m.facebook.com^$important
-
-
 ! Pokemon Trainer Club
 ||me.pokemon.com^$important
