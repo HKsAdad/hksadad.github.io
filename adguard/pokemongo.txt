@@ -6,8 +6,6 @@
 
 ! Niantic Games
 ||pgorelease.nianticlabs.com^$important
-!||identity.nianticlabs.com^$important
-!||identity-public.nianticlabs.com^$important
 
 
 ! Pokemon Trainer Club
