@@ -6,16 +6,16 @@
 
 ! Niantic Games
 ||pgorelease.nianticlabs.com^$important
-||identity.nianticlabs.com^$important
-||identity-public.nianticlabs.com^$important
+!||identity.nianticlabs.com^$important
+!||identity-public.nianticlabs.com^$important
 
 
 ! Google OAuth
-||oauth2.googleapis.com^$important
+!||oauth2.googleapis.com^$important
 
 
 ! Facebook
-||m.facebook.com^$important
+!||m.facebook.com^$important
 
 
 ! Pokemon Trainer Club
