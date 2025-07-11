@@ -1,8 +1,7 @@
 !
 ! Title: Pokemon Go
 ! Description: List of domains used by Pokemon Go
-! Version: 1.1.25071101
-! Last Modified: 2025-07-11T02:46:00.000Z
+! Version: 1.1.25071102
 !
 
 ||pgorelease.nianticlabs.com^$important
