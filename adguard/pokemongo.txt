@@ -13,5 +13,5 @@
 
 
 ! Sign-in with Apple
-!||identity.nianticlabs.com
-!||identity-public.nianticlabs.com
+||identity.nianticlabs.com
+||identity-public.nianticlabs.com
