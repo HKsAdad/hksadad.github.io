@@ -5,9 +5,11 @@
 !
 
 ||pgorelease.nianticlabs.com^$important
-||pgorelease-assets.nianticlabs.com^$important
+||pgorelease-assets.nianticstatic.com^$important
 ||identity.nianticlabs.com^$important
 ||identity-public.nianticlabs.com^$important
 ||armodels.eng.nianticlabs.com^$important
 ||platform-account-assets.nianticlabs.com^$important
 ||oauth2.googleapis.com^$important
+||star.c10r.facebook.com$^important
+||star.fallback.c10r.facebook.com$^important
