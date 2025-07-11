@@ -10,3 +10,8 @@
 
 ! Pokemon Trainer Club
 ||me.pokemon.com^$important
+
+
+! Sign-in with Apple
+!||identity.nianticlabs.com
+!||identity-public.nianticlabs.com
