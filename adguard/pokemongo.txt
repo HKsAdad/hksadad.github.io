@@ -1,6 +1,6 @@
 !
 ! Title: Pokemon Go
-! Description: List of domains used by Pokemon Go
+! Description: For account-switching without turning off Advanture Sync.
 ! Version: 1.1.25071102
 !
 
