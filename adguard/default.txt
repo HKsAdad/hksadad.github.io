@@ -1,6 +1,6 @@
 !
 ! Title: Tailored DNS filter
-! Version: 1.0.25071101
+! Version: 1.0.25071102
 !
 ||provisioning.googleapis.com^$important
 ||firebaselogging-pa.googleapis.com^$important
@@ -13,6 +13,7 @@
 ||launches.appsflyer.com^$important
 ||appsflyersdk.com^$important
 ||analytics.nianticlabs.com^$important
+||analytics.nianticspatial.com^$important
 ||sentry.io^$important
 ||ads.yap.yahoo.com^$important
 ||tp2.beap.gemini.yahoo.com^$important
