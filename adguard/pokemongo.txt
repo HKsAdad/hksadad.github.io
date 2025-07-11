@@ -5,10 +5,8 @@
 !
 
 ! Niantic Games
-||pgorelease.nianticlabs.com^$important
 ||identity.nianticlabs.com^$important
 ||identity-public.nianticlabs.com^$important
-||platform-account-assets.nianticlabs.com^$important
 
 
 ! Google OAuth
