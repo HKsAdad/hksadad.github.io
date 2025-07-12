@@ -1,6 +1,7 @@
 !
 ! Title: Apple Location Service
-! Version: 1.0
+! Description: Alternative source for Apple Location Service
+! Version: 1.0.250712
 !
 
 175.45.24.75 gs-loc.apple.com
