@@ -1,7 +1,8 @@
 !
-! Title: Tailored DNS filter
+! Title: Personal DNS filter
 ! Version: 1.0.25071102
 !
+
 ||provisioning.googleapis.com^$important
 ||firebaselogging-pa.googleapis.com^$important
 ||fcmtoken.googleapis.com^$important
