@@ -13,5 +13,6 @@
 
 
 ! Auth: Sign-in with Apple
+! ***Conflict with Facebook login***
 ||identity.nianticlabs.com
 ||identity-public.nianticlabs.com
