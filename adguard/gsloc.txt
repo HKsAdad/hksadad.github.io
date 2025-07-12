@@ -1,5 +1,5 @@
 !
-! Title: Apple Location Service
+! Title: Apple Location Service (Tailored)
 ! Description: Alternative source for Apple Location Service
 ! Version: 1.0.250712
 !
