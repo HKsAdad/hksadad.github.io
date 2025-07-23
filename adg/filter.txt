@@ -1,8 +1,0 @@
-||leavehomesafe.gov.hk^$important
-||regqr.gov.hk^$important
-||provisioning.googleapis.com^$important
-||firebaselogging-pa.googleapis.com^$important
-||fcmtoken.googleapis.com^$important
-||firebaseinstallations.googleapis.com^$important
-||device-provisioning.googleapis.com^$important
-||app-measurement.com^$important
