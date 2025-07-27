@@ -21,3 +21,6 @@
 ||tp2.beap.gemini.yahoo.com^$important
 ||adv.lihkg.com^$important
 ||www.axismedia.com.hk^$important
+
+||analytics.nianticlabs.com^$important
+||analytics.nianticspatial.com^$important
