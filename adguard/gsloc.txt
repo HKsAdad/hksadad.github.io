@@ -1,7 +1,7 @@
 !
 ! Title: Apple Location Service
 ! Description: Alternative source for Apple Location Service
-! Version: 1.0.250712
+! Version: 1.0.250730001
 !
 
 175.45.24.75 iphone-services.apple.com
