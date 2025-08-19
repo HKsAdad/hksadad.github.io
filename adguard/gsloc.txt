@@ -10,6 +10,7 @@
 175.45.24.75 gs-loc-new.ls-apple.com.akadns.net
 0.0.0.0 gsp10-ssl.ls.apple.com
 0.0.0.0 gsp10-ssl.ls-apple.com.akadns.net
+175.45.24.75 iphone-ld.apple.com
 
 175.45.24.75 gs-loc-cn.apple.com
 0.0.0.0 gsp10-ssl-cn.ls.apple.com
