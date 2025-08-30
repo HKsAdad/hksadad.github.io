@@ -1,6 +1,5 @@
 !
-! Title: Apple Location Service
-! Description: Alternative source for Apple Location Service
+! Title: Apple Location Service Assistant
 ! Version: 1.0.250819003
 !
 
