@@ -1,6 +1,6 @@
 !
 ! Title: Apple Location Service Assistant
-! Version: 1.0.250819003
+! Version: 1.0.2501012001
 !
 
 175.45.24.75 iphone-services.apple.com
