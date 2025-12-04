@@ -14,8 +14,6 @@
 ||out.usbla.net^$important
 ||launches.appsflyer.com^$important
 ||appsflyersdk.com^$important
-||analytics.nianticlabs.com^$important
-||analytics.nianticspatial.com^$important
 ||sentry.io^$important
 ||ads.yap.yahoo.com^$important
 ||tp2.beap.gemini.yahoo.com^$important
@@ -24,3 +22,4 @@
 
 ||analytics.nianticlabs.com^$important
 ||analytics.nianticspatial.com^$important
+||api.quago.io^$important
