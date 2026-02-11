@@ -1,7 +1,7 @@
 !
 ! Title: Pokemon Go (Facebook and Apple ID only)
 ! Description: For Facebook or Apple ID account-switching without turning off Advanture Sync itself.
-! Version: 0.371.0.25082201
+! Version: 0.397.1.26021101
 !
 
 ! Pokemon Go game server (DO NOT BLOCK)
