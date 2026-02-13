@@ -1,7 +1,7 @@
 !
 ! Title: Pokemon Go
 ! Description: For account-switching without turning off Advanture Sync itself.
-! Version: 0.397.1.26021301
+! Version: 0.397.1.260213a
 !
 
 ! Pokemon Go game server
