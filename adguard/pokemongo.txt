@@ -5,7 +5,8 @@
 !
 
 ! Pokemon Go game server
-||pgorelease.nianticlabs.com^$important
+!||pgorelease.nianticlabs.com^$important
+0.0.0.0 pgorelease.nianticlabs.com
 
 
 ! Auth: Pokemon Trainer Club
