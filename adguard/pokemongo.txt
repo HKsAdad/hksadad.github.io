@@ -1,12 +1,11 @@
 !
 ! Title: Pokemon Go
 ! Description: For account-switching without turning off Advanture Sync itself.
-! Version: 0.397.1.260213a
+! Version: 0.397.1.260213b
 !
 
 ! Pokemon Go game server
-!||pgorelease.nianticlabs.com^$important
-0.0.0.0 pgorelease.nianticlabs.com
+||pgorelease.nianticlabs.com^$important
 
 
 ! Auth: Pokemon Trainer Club
