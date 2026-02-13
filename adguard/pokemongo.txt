@@ -15,5 +15,5 @@
 
 ! Auth: Sign-in with Apple
 ! ***Conflict with Facebook login***
-||identity.nianticlabs.com
-||identity-public.nianticlabs.com
+0.0.0.0 identity.nianticlabs.com
+0.0.0.0 identity-public.nianticlabs.com
