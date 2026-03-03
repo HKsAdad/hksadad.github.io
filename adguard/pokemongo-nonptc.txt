@@ -1,12 +1,8 @@
 !
-! Title: Pokemon Go (Facebook and Apple ID only)
-! Description: For Facebook or Apple ID account-switching without turning off Advanture Sync itself.
-! Version: 0.397.1.26021101
+! Title: Niantic Identity Service
+! Description: SSO across various Niantic/Scopely services
+! Version: 0.399.1.26030301
 !
-
-! Pokemon Go game server (DO NOT BLOCK)
-!||pgorelease.nianticlabs.com^$important
-
 
 0.0.0.0 identity.nianticlabs.com
 0.0.0.0 identity-public.nianticlabs.com
