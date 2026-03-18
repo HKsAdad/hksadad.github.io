@@ -17,3 +17,6 @@
 ! ***Conflict with Facebook login***
 0.0.0.0 identity.nianticlabs.com
 0.0.0.0 identity-public.nianticlabs.com
+
+||pokemongo.com^$important
+||www.pokemongolive.com^$important
