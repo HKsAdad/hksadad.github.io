@@ -1,9 +1,11 @@
 !
 ! Title: Niantic Platform Services
 ! Description: Niantic/Scopely platform services
-! Version: 0.401.0.26030602
+! Version: 0.403.0.260318a
 !
 
 0.0.0.0 identity.nianticlabs.com
 0.0.0.0 identity-public.nianticlabs.com
+||pokemongo.com^$important
+||www.pokemongolive.com^$important
 ||n5c.io^$important
