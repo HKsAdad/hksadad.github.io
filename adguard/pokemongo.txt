@@ -1,7 +1,7 @@
 !
 ! Title: Pokemon Go
 ! Description: For account-switching without turning off Advanture Sync itself.
-! Version: 0.403.0.260318a
+! Version: 0.397.1.260213b
 !
 
 ! Pokemon Go game server
@@ -17,6 +17,3 @@
 ! ***Conflict with Facebook login***
 0.0.0.0 identity.nianticlabs.com
 0.0.0.0 identity-public.nianticlabs.com
-
-||pokemongo.com^$important
-||www.pokemongolive.com^$important
