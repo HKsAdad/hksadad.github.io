@@ -1,6 +1,6 @@
 !
 ! Title: Personal Domains filter
-! Version: 1.0.26021301
+! Version: 1.0.1.260403a
 !
 
 
@@ -23,6 +23,3 @@
 ||analytics.nianticlabs.com^$important
 ||analytics.nianticspatial.com^$important
 ||api.quago.io^$important
-
-!||identity.nianticlabs.com^$important
-!||identity-public.nianticlabs.com^$important
