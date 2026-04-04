@@ -1,14 +1,10 @@
 !
 ! Title: Apple Location Service Assistant
-! Version: 1.0.1.260403a
+! Version: 1.0.2.260404a
 !
 
-175.45.24.75 iphone-services.apple.com
-175.45.24.75 gs-loc.apple.com
-175.45.24.75 gs-loc.ls-apple.com.akadns.net
-175.45.24.75 gs-loc-new.ls-apple.com.akadns.net
-0.0.0.0 gsp10-ssl.ls.apple.com
-0.0.0.0 gsp10-ssl.ls-apple.com.akadns.net
+175.45.24.75 iphone-services.apple.com gs-loc.apple.com gs-loc.ls-apple.com.akadns.net gs-loc-new.ls-apple.com.akadns.net
+0.0.0.0 gsp10-ssl.ls.apple.com gsp10-ssl.ls-apple.com.akadns.net
 
 175.45.24.75 gs-loc-cn.apple.com
 0.0.0.0 gsp10-ssl-cn.ls.apple.com
