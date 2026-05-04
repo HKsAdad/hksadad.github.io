@@ -5,6 +5,7 @@
 
 ! Global
 175.45.24.75 iphone-services.apple.com gs-loc.apple.com gs-loc.ls-apple.com.akadns.net gs-loc-new.ls-apple.com.akadns.net
+175.45.24.75 gsp57-ssl-background.ls.apple.com
 0.0.0.0 gsp10-ssl.ls.apple.com gsp10-ssl.ls-apple.com.akadns.net
 
 ! China
