@@ -1,7 +1,9 @@
 !
 ! Title: Pokemon Go
 ! Description: For account-switching without turning off Advanture Sync itself.
-! Version: 0.411.1.260519a
+! Version: 0.411.1.260522a
 
-0.0.0.0 pushgateway-release.nianticlabs.com me.pokemon.com access.pokemon.com 
+0.0.0.0 pushgateway-release.nianticlabs.com me.pokemon.com access.pokemon.com pgorelease-assets.nianticstatic.com
 175.45.24.75 pgorelease.nianticlabs.com identity.nianticlabs.com identity-public.nianticlabs.com
+
+0.0.0.0 www.google.com ep2.facebook.com
