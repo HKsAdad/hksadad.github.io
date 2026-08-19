@@ -1,6 +1,6 @@
 !
 ! Title: Personal Domains filter
-! Version: 1.0.3.260621a
+! Version: 1.0.4.260819a
 !
 
 ||*$dnstype=https|ptr
@@ -27,3 +27,6 @@
 
 ! 260621a
 ||niimbot.com^$important
+
+! 260819a
+||n5c.io^$important
