@@ -1,9 +1,10 @@
 !
 ! Title: Personal Domains filter
-! Version: 1.0.5.261105a
+! Version: 1.0.5.261105b
 !
 
-||*$dnstype=https|ptr
+! Commented=261105
+!||*$dnstype=https|ptr
 
 ||provisioning.googleapis.com^$important
 ||firebaselogging-pa.googleapis.com^$important
