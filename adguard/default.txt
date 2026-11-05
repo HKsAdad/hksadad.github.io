@@ -1,6 +1,6 @@
 !
 ! Title: Personal Domains filter
-! Version: 1.0.4.260819a
+! Version: 1.0.5.261105a
 !
 
 ||*$dnstype=https|ptr
@@ -30,3 +30,8 @@
 
 ! 260819a
 ||n5c.io^$important
+
+! 261105
+||valid.apple.com^$important
+||crl.apple.com^$important
+||crl2.apple.com^$important
