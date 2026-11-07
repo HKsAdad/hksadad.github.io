@@ -1,6 +1,11 @@
 !
 ! Title: iOS update check blocker
-! Version: 1.0.0.261018a
+! Version: 1.0.1.261107a
 !
 
-0.0.0.0 mesu.apple.com gdmf.apple.com bpapi.apple.com
+! 261107
+! iOS update catalog
+175.45.24.75 mesu.apple.com gdmf.apple.com
+
+! Trust Asset update
+175.45.24.75 mesu.apple.com gdmf.apple.com xp.apple.com valid.apple.com
