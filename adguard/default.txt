@@ -32,7 +32,9 @@
 ! 260819a
 ||n5c.io^$important
 
-! 261105
-||valid.apple.com^$important
-||crl.apple.com^$important
-||crl2.apple.com^$important
+! 261107
+! iOS update catalog
+175.45.24.75 mesu.apple.com gdmf.apple.com
+
+! Trust Asset update
+175.45.24.75 mesu.apple.com gdmf.apple.com xp.apple.com valid.apple.com
