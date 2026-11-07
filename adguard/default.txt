@@ -1,6 +1,6 @@
 !
 ! Title: Personal Domains filter
-! Version: 1.0.5.261105b
+! Version: 1.0.6.261107a
 !
 
 ! Commented=261105
