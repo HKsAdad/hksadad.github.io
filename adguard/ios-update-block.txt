@@ -1,5 +1,6 @@
 !
 ! Title: iOS update check blocker
+! Description: Block updates for iOS version (including Trust Asset in CoreTrust)
 ! Version: 1.0.1.261108a
 !
 
