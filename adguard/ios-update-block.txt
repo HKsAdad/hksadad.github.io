@@ -1,7 +1,7 @@
 !
 ! Title: iOS update check blocker
 ! Description: Block updates for iOS version (including Trust Asset in CoreTrust)
-! Version: 1.0.1.261108a
+! Version: 1.0.2.261108b
 !
 
 ! 261107
@@ -9,4 +9,4 @@
 175.45.24.75 mesu.apple.com gdmf.apple.com
 
 ! Trust Asset update (1013 is the latest version without cert-pinning for gs-loc(-cn).apple.com)
-175.45.24.75 mesu.apple.com gdmf.apple.com xp.apple.com valid.apple.com
+175.45.24.75 mesu.apple.com gdmf.apple.com gdmf-ados.apple.com valid.apple.com
